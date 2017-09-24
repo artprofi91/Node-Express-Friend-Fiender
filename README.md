@@ -3,6 +3,7 @@
 I created a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site takes in results your users' surveys, then compare their answers with those from other users. The app then displays the name and picture of the user with the best overall match. My application made up of two parts:
 1. A front-end set of HTML/CSS/JS pages for entering and viewing data.
 2. A back-end composed of Node/Express and basic JS for storing, updating, and comparing friends data.
+
 I used:
 * Servers;
 * Routing;
@@ -43,3 +44,5 @@ Click [here](https://github.com/artprofi91/Node-Express-Friend-Finder) then down
 ```
 > npm install
 ```
+
+For this app I used *Chosen* - a JavaScript plugin that makes select boxes user-friendly. It is currently available in both jQuery and Prototype flavors.
