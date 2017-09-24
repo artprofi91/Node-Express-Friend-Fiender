@@ -1,0 +1,23 @@
+{
+  "name": "node-express-friend-finder-app",
+  "version": "1.0.0",
+  "description": "Node-Express Friend Finder App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artprofi91/Node-Express-Friend-Finder-App.git"
+  },
+  "author": "Art",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artprofi91/Node-Express-Friend-Finder-App/issues"
+  },
+  "homepage": "https://github.com/artprofi91/Node-Express-Friend-Finder-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
